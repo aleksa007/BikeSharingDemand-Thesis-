@@ -1,0 +1,1 @@
+There are 3 files as notebooks one with graphs and ohter two Autreogresion. The python file is traditional machine learniing models.
